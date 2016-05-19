@@ -1,0 +1,6 @@
+<label id="label2">Dinosaurs:</label>
+<paper-radio-group selected="b" aria-labelledby="label2">
+  <paper-radio-button name="a">allosaurus</paper-radio-button>
+  <paper-radio-button name="b">brontosaurus</paper-radio-button>
+  <paper-radio-button name="d" disabled>diplodocus</paper-radio-button>
+</paper-radio-group>
